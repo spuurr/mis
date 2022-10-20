@@ -5,6 +5,7 @@ public class GitTest {
         System.out.println("Hello Git!");
         System.out.println("master: first commit");
         System.out.println("master: second commit");
+        System.out.println("master: test conflict merge");
         System.out.println("hot-fix: first commit");
         System.out.println("and so on...");
     }
